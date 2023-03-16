@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Jose Flores</h1>
 <h3 align="center">Experienced FullStack Web Developer with a passion for creating innovative and dynamic web applications. Proficient in a variety of programming languages and frameworks, with expertise in [JavaScript, Html,Css, Tailwind, React, Node.js, Express, Sequalize SQL etc.]. Dedicated to delivering high-quality work and providing excellent user experiences. Based in Argentina and available for remote work opportunities.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephflo&label=Profile%20views&color=0e75b6&style=flat" alt="josephflo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephflo" alt="josephflo" /></a> </p>
